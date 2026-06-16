@@ -1,1 +1,0 @@
-# Fuzzy-Deep-Learning-for-the-Diagnosis-of-Alzheimer-s-Disease
